@@ -1,6 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-Teste de Modificação
-
-
-Outra Modificação
+Projeto criado usando a API Pokedex . 
